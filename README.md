@@ -1,1 +1,2 @@
- #README # 
+ # README # 
+# WE TALKIN' BOUT PRACTICE #
